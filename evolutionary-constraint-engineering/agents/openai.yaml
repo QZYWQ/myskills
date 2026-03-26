@@ -1,0 +1,7 @@
+interface:
+  display_name: "Evolutionary Constraint Engineering"
+  short_description: "Turn vague intent into validated constraints"
+  default_prompt: "Use $evolutionary-constraint-engineering to convert this ambiguous request into validated constraints before implementation."
+
+policy:
+  allow_implicit_invocation: true
